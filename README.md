@@ -1,6 +1,6 @@
--Hi, I’m Erhan Tölek. I'm a QA & Release and Test Automotion Engineer
+-Hi, I’m Erhan Tölek. I'm a QA & Release and Test Automation Engineer
 
--I’m interested in Test Automotion and Developments.
+-I’m interested in Test Automation and Developments.
 Working on a project that I'm converting all the manual test cases(app. 1000 cases) to automotion tests by Selenium/Pytest in Python nowadays, 
 
 -I’m currently learning Gherkin scenarios into the Ruby Cucumber and/or Java Cucumber and automation framework tools 
