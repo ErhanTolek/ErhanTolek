@@ -1,5 +1,5 @@
 #  About Me:
-Hi there, my name is Erhan Tölek and I am an automation test engineer with a passion for web development. <br>I am currently working on learning Angular and am excited to start contributing to open source projects on GitHub. <br>As a test engineer, I am focused on writing clean, efficient, and reliable code, and I am looking forward to bringing that skillset to the Angular community. <br>I am always open to feedback and collaboration, so please don't hesitate to reach out if you have any ideas or projects that you think I could help with. <br>Thanks for stopping by my profile!
+Hi there, my name is Erhan Tölek and I am an automation test engineer with a passion for web development. <br>I am currently working on learning Angular and am excited to start contributing to open source projects on GitHub. <br>As a test engineer, I am focused on writing clean, efficient, and reliable code, and I am looking forward to bringing that skillset to the developer community. <br>I am always open to feedback and collaboration, so please don't hesitate to reach out if you have any ideas or projects that you think I could help with. <br>Thanks for stopping by my profile!
 
 
 ##  Socials:
